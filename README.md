@@ -1,2 +1,7 @@
 # GitLearnRepoS
-This is another repository to learn how GitHub works
+
+##Editing this file
+
+It is a markdown file in this repository
+
+
